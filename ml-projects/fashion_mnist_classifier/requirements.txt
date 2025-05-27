@@ -1,0 +1,31 @@
+# ML y Data
+torch
+torchvision
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+pillow
+
+# API
+fastapi
+uvicorn
+python-multipart
+
+# UI
+streamlit
+requests
+
+# Configuración y herramientas
+pyyaml
+python-dotenv
+
+# MLOps / experiment tracking
+mlflow
+
+# Testing
+pytest
+
+# Logging, visualización opcional
+rich

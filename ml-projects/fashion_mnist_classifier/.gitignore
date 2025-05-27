@@ -1,0 +1,81 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+*.pyd
+*.pyo
+.Python
+env/
+venv/
+ENV/
+.venv/
+.ipynb_checkpoints/
+
+# === Packages ===
+*.whl
+*.bak
+*.tar.gz
+*.zip
+*.log
+
+# === Virtual Environments ===
+pip-log.txt
+pip-delete-this-directory.txt
+
+# === Jupyter/Streamlit ===
+.ipynb_checkpoints/
+.streamlit/
+
+# === VSCode / JetBrains ===
+.vscode/
+.idea/
+
+# === OS Files ===
+.DS_Store
+Thumbs.db
+
+# === Data/Model Artifacts ===
+data/
+model/best_fashion.pth
+*.h5
+*.pt
+*.onnx
+*.ckpt
+*.npz
+*.npy
+
+# === MLflow ===
+mlruns/
+mlruns.db
+mlflow.log
+
+# === Logs ===
+logs/
+*.log
+*.out
+
+# === API/Temp Files ===
+*.db
+*.sqlite3
+*.tmp
+*.cache
+__pypackages__/
+
+# === Testing ===
+coverage.xml
+htmlcov/
+.tox/
+.pytest_cache/
+
+# === Output ===
+output/
+outputs/
+runs/
+reports/
+*.png
+*.pdf
+
+# === Streamlit secrets ===
+.secrets.toml
