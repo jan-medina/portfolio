@@ -6,7 +6,7 @@ A modular, testable, and production-ready machine learning project for credit ri
 
 ## 📂 Project Structure
 
-```
+```text
 .
 ├── api/                # REST API with FastAPI
 ├── data/               # Data loading, preprocessing, feature engineering
